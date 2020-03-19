@@ -1,0 +1,92 @@
+[
+  {
+    "ItemId": 919,
+    "ItemCategory": "",
+    "ItemName": "",
+    "ItemValue": 0
+  },
+  {
+    "ItemId": 5,
+    "ItemCategory": "Clothing",
+    "ItemName": "Jeans",
+    "ItemValue": 1100
+  },
+  {
+    "ItemId": 4,
+    "ItemCategory": "Clothing",
+    "ItemName": "Shirts",
+    "ItemValue": 1100
+  },
+  {
+    "ItemId": 249,
+    "ItemCategory": "Clothing",
+    "ItemName": "Test4",
+    "ItemValue": 0
+  },
+  {
+    "ItemId": 819,
+    "ItemCategory": "Electronics",
+    "ItemName": "Perrin",
+    "ItemValue": 10
+  },
+  {
+    "ItemId": 2,
+    "ItemCategory": "Electronics",
+    "ItemName": "Playstation",
+    "ItemValue": 400
+  },
+  {
+    "ItemId": 3,
+    "ItemCategory": "Electronics",
+    "ItemName": "Stereo",
+    "ItemValue": 1600
+  },
+  {
+    "ItemId": 725,
+    "ItemCategory": "Electronics",
+    "ItemName": "test10",
+    "ItemValue": 999
+  },
+  {
+    "ItemId": 408,
+    "ItemCategory": "Electronics",
+    "ItemName": "Test4",
+    "ItemValue": 98098098
+  },
+  {
+    "ItemId": 1,
+    "ItemCategory": "Electronics",
+    "ItemName": "TV",
+    "ItemValue": 2000
+  },
+  {
+    "ItemId": 7,
+    "ItemCategory": "Kitchen",
+    "ItemName": "Flatware",
+    "ItemValue": 500
+  },
+  {
+    "ItemId": 8,
+    "ItemCategory": "Kitchen",
+    "ItemName": "Knife Set",
+    "ItemValue": 500
+  },
+  {
+    "ItemId": 9,
+    "ItemCategory": "Kitchen",
+    "ItemName": "Misc",
+    "ItemValue": 10000
+  },
+  {
+    "ItemId": 6,
+    "ItemCategory": "Kitchen",
+    "ItemName": "Pots and Pans",
+    "ItemValue": 3000
+  },
+  {
+    "ItemId": 675,
+    "ItemCategory": "Kitchen",
+    "ItemName": "Test5",
+    "ItemValue": 100
+  }
+]

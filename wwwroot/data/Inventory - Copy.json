@@ -1,0 +1,72 @@
+[
+  {
+    "ItemId": 1,
+    "ItemCategory": "Electronics",
+    "ItemName": "TV",
+    "ItemValue": 2000
+
+
+  },
+  {
+    "ItemId": 2,
+    "ItemCategory": "Electronics",
+    "ItemName": "Playstation",
+    "ItemValue": 400
+
+  },
+
+  {
+    "ItemId": 3,
+    "ItemCategory": "Electronics",
+    "ItemName": "Stereo",
+    "ItemValue": 1600
+
+
+  },
+  {
+    "ItemId": 4,
+    "ItemCategory": "Clothings",
+    "ItemName": "Shirts",
+    "ItemValue": 1100
+
+
+  },
+  {
+    "ItemId": 5,
+    "ItemCategory": "Clothings",
+    "ItemName": "Jeans",
+    "ItemValue": 1100
+    
+  },
+  {
+    "ItemId": 6,
+    "ItemCategory": "Kitchen",
+    "ItemName": "Pots and Pans",
+    "ItemValue": 3000
+
+
+  },
+  {
+    "ItemId": 7,
+    "ItemCategory": "Kitchen",
+    "ItemName": "Flatware",
+    "ItemValue": 500
+    
+
+  },
+  {
+    "ItemId": 8,
+    "ItemCategory": "Kitchen",
+    "ItemName": "Knife Set",
+    "ItemValue": 500
+    
+
+  },
+  {
+    "ItemId": 9,
+    "ItemCategory": "Kitchen",
+    "ItemName": "Misc",
+    "ItemValue": 10000
+
+  }
+]
